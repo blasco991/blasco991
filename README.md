@@ -4,6 +4,6 @@
 
 - 🔭 I’m currently working on [Scada Systems]
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/blasco991/]([https://www.linkedin.com/in/blasco991/](https://www.linkedin.com/in/marian-solomon/))
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/blasco991/]([https://www.linkedin.com/in/blasco991/](https://www.linkedin.com/in/marian-solomon))
 
 - 📫 How to reach me **blasco991@gmail.com**
